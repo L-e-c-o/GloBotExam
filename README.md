@@ -8,6 +8,7 @@ git clone https://github.com/L-e-c-o/GloBotExam.git
 pip3 install selenium
 cd GloBotExam
 ```
+Run the script as root (Linux) or admin (Windows)
 Enter your username
 Enter your password
 Enjoy...
