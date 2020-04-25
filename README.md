@@ -9,6 +9,7 @@ pip3 install selenium
 cd GloBotExam
 ```
 Run the script as root (Linux) or admin (Windows)
+
 Enter your username
 Enter your password
 Enjoy...
