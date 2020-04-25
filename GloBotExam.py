@@ -15,7 +15,8 @@ art = '''   _____ _       _           _   ______
 
 
 
-            Made with ♥ by Astika & léco.'''
+            Made with ♥ by Astika & léco.
+            '''
 print(art)
 sleep(3)
 
