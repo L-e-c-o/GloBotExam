@@ -20,6 +20,5 @@ python3 GloBotExam.py
 Enter your username
 Enter your password
 Enjoy...
-```
-## Big up to ATSIKA who made this scrip with me. 
+# Big up to ATSIKA who made this scrip with me. 
 
