@@ -3,14 +3,13 @@
 # A simple script to automate global exam connection time (with Firefox only).
 
 ### Installation
+(Do not run this script with sudo)
 ```
 git clone https://github.com/L-e-c-o/GloBotExam.git
 pip3 install selenium
 cd GloBotExam
 python GloBotExam.py
-```
-Run the script as root (Linux) or admin (Windows)
-```
+
 Enter your username
 Enter your password
 ```
