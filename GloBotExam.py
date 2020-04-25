@@ -20,8 +20,8 @@ art = '''   _____ _       _           _   ______
             '''
 print(art)
 sleep(3)
-username = input("Entrez votre username : ")
-password = getpass("Entrez votre password : ")
+username = input("Enter your username : ")
+password = getpass("Enter your password : ")
 url = "https://business.global-exam.com/login"
 system = platform.system()
 cwd = os.getcwd()
@@ -32,10 +32,8 @@ if system == "Linux":
     os.system("sudo chmod +x /usr/bin/geckodriver")
     driver = webdriver.Firefox()
 elif system == "Darwin":
-    if os.geteuid() != 0:
-        print("Please run this script as root or using sudo.")
-        exit()
-    copyfile(cwd + "/drivers/geckodriver_" + system, "/usr/bin/geckodriver")
+    os.system("sudo cp "+cwd+"/drivers/geckodriver_"+system+" /usr/bin/geckodriver")
+    os.system("sudo chmod +x /usr/bin/geckodriver")
     driver = webdriver.Firefox()
 elif system == "Windows":
     copyfile(cwd + "\\drivers\\geckodriver_" + system + "_" + arch + ".exe", cwd + "\\geckodriver.exe")
