@@ -7,12 +7,12 @@ git clone https://github.com/L-e-c-o/GloBotExam.git
 pip3 install selenium
 cd GloBotExam
 ```
-# add the appropriate Firefox driver to your PATH. 
-# For Linux
+Add the appropriate Firefox driver to your PATH. 
+For Linux
 ```
 PATH=$PATH:your/driver/path
 ```
-# For Windows with powershell 
+For Windows with powershell 
 ```
 $Env:Path += ";c:\your\driver\path"
 python3 GloBotExam.py
