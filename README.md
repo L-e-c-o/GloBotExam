@@ -1,7 +1,7 @@
-### GloBotExam
+# GloBotExam
 a simple script to automate global exam connection time (with Firefox only).
 
-# Installation
+### Installation
 git clone https://github.com/L-e-c-o/Scripts.git
 
 pip3 install selenium
