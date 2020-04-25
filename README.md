@@ -10,7 +10,7 @@ cd GloBotExam
 ```
 Run the script as root (Linux) or admin (Windows)
 
-Enter your username
+Enter your username\n
 Enter your password
 Enjoy...
 ## Big up to ATSIKA (https://github.com/Atsika) who made this scrip with me. 
