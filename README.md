@@ -3,7 +3,8 @@
 # A simple script to automate global exam connection time (with Firefox only).
 
 ### prerequisite 
-Python3 installed
+Python3 
+Firefox
 
 ### Installation
 (Do not run this script with sudo)
