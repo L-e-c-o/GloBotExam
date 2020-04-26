@@ -1,6 +1,6 @@
 ![globotexam.png](globotexam.png)
 #
-# A simple script to automate global exam connection time (with Firefox only).
+# A simple script to automate global exam connection time (With Linux, Windows and Firefox only).
 
 ### prerequisite 
 1. Python3 
