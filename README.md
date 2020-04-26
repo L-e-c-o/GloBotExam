@@ -7,7 +7,7 @@
 2. Firefox
 
 ### Installation
-(Do not run this script with sudo)
+(For Linux, do not run this script with sudo)
 ```
 git clone https://github.com/L-e-c-o/GloBotExam.git
 pip3 install selenium
