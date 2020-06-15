@@ -12,7 +12,7 @@
 git clone https://github.com/L-e-c-o/GloBotExam.git
 pip3 install selenium
 cd GloBotExam
-python GloBotExam.py
+python3 GloBotExam.py
 
 Enter your username
 Enter your password
