@@ -18,5 +18,5 @@ Enter your username
 Enter your password
 ```
 Enjoy...
-## Big up to ATSIKA (https://github.com/Atsika) who made this scrip with me. 
+## Big up to ATSIKA (https://github.com/Atsika) who made this script with me. 
 
